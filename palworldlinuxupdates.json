@@ -7,7 +7,6 @@
         "UpdateSourceArgs": "1623730",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
-        "ForceDownloadPlatform": "Linux",
         "DeleteAfterExtract": true,
         "OneShot": false
     },
