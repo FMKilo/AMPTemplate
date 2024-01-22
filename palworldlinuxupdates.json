@@ -1,9 +1,10 @@
 [
     {
         "UpdateStageName": "",
-        "UpdateSourcePlatform": "Linux",
+        "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceArgs": "2394010",
+        "UpdateSourceData": "2394010",
+        "UpdateSourceArgs": "1623730",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Linux",
@@ -23,10 +24,12 @@
     {
         "UpdateStageName": "",
         "UpdateSourcePlatform": "All",
-        "UpdateSource": "StartApplication",
+        "UpdateSource": "CopyFilePath",
+        "UpdateSourceData": "./Pal/Saved/Config/LinuxServer/PalWorldSettings.ini",
+        "UpdateSourceArgs": "./Pal/DefaultPalWorldSettings.ini",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
+        "DeleteAfterExtract": false,
         "OneShot": false
     }
 ]
