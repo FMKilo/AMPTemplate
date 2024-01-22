@@ -14,7 +14,7 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SetExecutableFlag",
-        "UpdateSourceArgs": "Pal/Binaries/Linux/PalServer-Linux-Test",
+        "UpdateSourceArgs": "./Pal/Binaries/Linux/PalServer-Linux-Test",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
@@ -29,6 +29,6 @@
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": false,
-        "OneShot": false
+        "OneShot": true
     }
 ]
